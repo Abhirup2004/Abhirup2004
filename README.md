@@ -63,5 +63,5 @@
 
 
 
-![snake gif](https://github.com/Abhirup2004/Abhirup2004/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Abhirup2004/Abhirup2004/blob/output/github-snake.svg)
 
