@@ -8,7 +8,7 @@
 ---
 
 ### 🔥 About Me
-- 🎓 B.Tech CSE with AI-ML specialization (8.29 CGPA)
+- 🎓 B.Tech CSE with AI-ML specialization 
 - 🧠 Building AI/ML projects like **PersonaSync** and **AirPointer**
 - 📊 Created a YouTube Trending Dashboard using **Streamlit** & **Pandas**
 - 🌱 Currently learning: DSA | Full-stack Web Dev | LLMs
